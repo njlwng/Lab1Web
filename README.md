@@ -1,7 +1,9 @@
 # Lab1Web - Praktikum 1: HTML Dasar
 
 **Nama:** Najla Wening Khairunnisa
+
 **NIM:** 312510225
+
 **Program Studi:** Teknik Informatika
 
 ## Langkah Praktikum
